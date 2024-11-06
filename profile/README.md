@@ -1,7 +1,5 @@
 # PREDICO Project
-
-
-## Description
+Pre-clinical experiments for developing and optimising new Imaging in Breast Cancer.
 
 ## Repositories
 
