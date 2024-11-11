@@ -11,6 +11,15 @@ WP4: Emerging modalities Phase Contrast
 
 ## Publications/Contributions
 
+### WP2
+* **Simulation of digital mammographic images using GAMOS**. F.R Lozano, V. Sanchez-Lara, C. Huerga, LuisC. Martinez-Gomez, D. Garcia-Pinto. Poster. ECMP 2024. [doi:10.1016/j.ejmp.2024.104192](https://doi.org/10.1016/j.ejmp.2024.104192)
+
+
+### WP4
+* **Verification of SYRIS simulation framework for a Talbot-Lau interferometric phase contrast imaging system with a micro-focus X-ray source**. V. Sanchez-Lara, D. Garcia-Pinto, M. Chevalier. Poster. ECMP 2022.[doi:10.1016/S1120-1797(22)02428-0](https://doi.org/10.1016/S1120-1797(22)02428-0).
+* **Imágenes de contraste de fase utilizando un interferómetro de Talbot-Lau**. V. Sanchez-Lara, D. Garcia-Pinto, M. Chevalier. Oral Communication. SEFM/SEPR 2023.[Abstract Book](https://congresosefmsepr.es/oviedo2023/libros-resumenes/).
+   
+
 
 
 
