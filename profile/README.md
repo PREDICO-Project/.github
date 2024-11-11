@@ -1,5 +1,8 @@
-# PREDICO Project
+# PREDICO Project WP2 & WP4
 Pre-clinical experiments for developing and optimising new Imaging in Breast Cancer.
+
+WP2: Enhanced VCT
+WP4: Emerging modalities Phase Contrast
 
 ## Repositories
 
@@ -7,6 +10,8 @@ Pre-clinical experiments for developing and optimising new Imaging in Breast Can
 * [complex_refractive_index_generator](https://github.com/PREDICO-Project/complex_refractive_index_generator): Repository to generate text files with the complex refractive index for different energies. This files can be used in the simulation of Phase Contrast Images where the complex refractive index of X-rays must be used.
 
 ## Publications/Contributions
+
+
 
 
 ## Funding
