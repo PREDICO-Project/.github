@@ -13,7 +13,7 @@ WP4: Emerging modalities Phase Contrast
 ## Publications/Contributions
 
 ### WP2
-* **Simulation of digital mammographic images using GAMOS**. F.R Lozano, V. Sanchez-Lara, C. Huerga, LuisC. Martinez-Gomez, D. Garcia-Pinto. [Poster](doc/Poster_ECMP_2024.pdf). ECMP 2024. [doi:10.1016/j.ejmp.2024.104192](https://doi.org/10.1016/j.ejmp.2024.104192)
+* **Simulation of digital mammographic images using GAMOS**. F.R Lozano, V. Sanchez-Lara, C. Huerga, LuisC. Martinez-Gomez, D. Garcia-Pinto. [Poster](doc/Poster_EMCP_2024.pdf). ECMP 2024. [doi:10.1016/j.ejmp.2024.104192](https://doi.org/10.1016/j.ejmp.2024.104192)
 
 
 ### WP4
