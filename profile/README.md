@@ -22,9 +22,13 @@ WP4: Emerging modalities Phase Contrast
    
 
 
-
-
 ## Funding
 
 This work was supported by the Ministry of Science and Innovation of Spain. This work forms part of the subproject of VICTORIA project: Pre-clinical experiments for developing and optimising new Imaging in Breast Cancer, Ref: PID2021-123390OB-C22, funded by MCIN/AEI/ 10.13039/501100011033.
+
+## Contact
+Diego Garcia Pinto (IP): garcia.pinto@med.ucm.es
+Victor Sanchez Lara (WP4 & WP2): vicsan05@ucm.es
+Francisco Rafael Lozano (WP2 & WP4): fr.lozano1984@gmail.com
+
 
