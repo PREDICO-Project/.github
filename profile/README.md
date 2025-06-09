@@ -6,7 +6,7 @@ WP2: Enhanced VCT
 WP4: Emerging modalities Phase Contrast
 
 ## Repositories
-
+* [MIMAC](https://github.com/PREDICO-Project/MIMAC): Repository to simulate mammographic images through GAMOS.
 * [VICTRE_phantom_generator](https://github.com/PREDICO-Project/VICTRE_phantom_generator): Repository to generate voxelized breast phantoms using the VICTRE Pipeline.
 * [complex_refractive_index_generator](https://github.com/PREDICO-Project/complex_refractive_index_generator): Repository to generate text files with the complex refractive index for different energies. This files can be used in the simulation of Phase Contrast Images where the complex refractive index of X-rays must be used.
 
@@ -14,6 +14,7 @@ WP4: Emerging modalities Phase Contrast
 
 ### WP2
 * **Simulation of digital mammographic images using GAMOS**. F.R Lozano, V. Sanchez-Lara, C. Huerga, LuisC. Martinez-Gomez, D. Garcia-Pinto. [Poster](doc/Poster_EMCP_2024.pdf). ECMP 2024. [doi:10.1016/j.ejmp.2024.104192](https://doi.org/10.1016/j.ejmp.2024.104192)
+* **Simulation of digital mammographic images using GAMOS: Proof of concept**. F.R Lozano, V. Sanchez-Lara, C. Huerga, LuisC. Martinez-Gomez, D. Garcia-Pinto. Original Paper. [doi:10.1016/j.ejmp.2025.104995](https://doi.org/10.1016/j.ejmp.2025.104995)
 
 
 ### WP4
