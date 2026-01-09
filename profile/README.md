@@ -8,6 +8,7 @@ WP4: Emerging modalities Phase Contrast
 ## Repositories
 * [MIMAC](https://github.com/PREDICO-Project/MIMAC): Repository to simulate mammographic images through GAMOS.
 * [XPCIpy](https://github.com/PREDICO-Project/XPCIpy): Repository to simulate PCI images and Reconstruct Talbot-Lau images through phase stepping.
+* [PCI-GAMOS](https://github.com/PREDICO-Project/PCI-GAMOS): Repository to simulate Phase Contrast Images in GAMOS.
 * [VICTRE_phantom_generator](https://github.com/PREDICO-Project/VICTRE_phantom_generator): Repository to generate voxelized breast phantoms using the VICTRE Pipeline.
 * [complex_refractive_index_generator](https://github.com/PREDICO-Project/complex_refractive_index_generator): Repository to generate text files with the complex refractive index for different energies. This files can be used in the simulation of Phase Contrast Images where the complex refractive index of X-rays must be used.
 
