@@ -23,6 +23,7 @@ WP4: Emerging modalities Phase Contrast
 * **Verification of SYRIS simulation framework for a Talbot-Lau interferometric phase contrast imaging system with a micro-focus X-ray source**. V. Sanchez-Lara, D. Garcia-Pinto, M. Chevalier. [Poster](doc/Poster_ECMP_2022.pdf). ECMP 2022.[doi:10.1016/S1120-1797(22)02428-0](https://doi.org/10.1016/S1120-1797(22)02428-0).
 * **Imágenes de contraste de fase utilizando un interferómetro de Talbot-Lau**. V. Sanchez-Lara, D. Garcia-Pinto, M. Chevalier. Oral Communication. SEFM/SEPR 2023.[Abstract Book](https://congresosefmsepr.es/oviedo2023/libros-resumenes/).
 * **XPCIpy: A Python toolkit for X-ray phase-contrast imaging**. V. Sanchez-Lara, D- Garcia-Pinto. Original Paper. [10.1364/OE.573918](https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-22-45949).
+* **X-ray phase contrast imaging in GAMOS**. V. Sanchez-Lara, F.R Lozano, C. Huerga, LuisC. Martinez-Gomez, D. Garcia-Pinto. Original Paper. [doi:10.1016/j.ejmp.2026.105716](https://doi.org/10.1016/j.ejmp.2026.105716)
    
 ## Funding
 
